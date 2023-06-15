@@ -1,0 +1,3 @@
+This dataset contains two types of information. You will find first a graph where nodes are pollinator. Two animal species are connected if they visit the same plant (at least one). Your main focus should be this graph.
+
+In addition, we provide the original data that is more complex. You may use it if you want but you do not need to. It consists of a bipartite graph with two types of nodes : pollinator and plant. The graph is given as matrix where each line represent a pollinator whereas each column represent a plant. The coefficient is 1 if and only if the pollinator visit the plant (names of pollinator and plant are provided in two other file in the same order than the line and column of the matrix).
